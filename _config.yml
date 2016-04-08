@@ -1,17 +1,17 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Weibo: http://weibo.com/kuailederena
+    GitHub: https://github.com/prototypezhou
     Rss: /atom.xml
 
-favicon: /favicon.png
-logo: /favicon.png
+favicon: https://avatars0.githubusercontent.com/u/18300865?v=3&s=40
+logo: https://avatars0.githubusercontent.com/u/18300865?v=3&s=60
 
 # Comment
 # e.g disqus: seansun
 disqus:
-duoshuo: 
+duoshuo: prototype
 
 # Analytics
 # google-analytics:
